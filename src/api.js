@@ -1,4 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API_BASE = import.meta.env.VITE_API_URL || "https://hrms-lite-backend-s68f.onrender.com";
 
 /**
  * Generic fetch wrapper with error handling.
